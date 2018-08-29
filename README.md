@@ -1,5 +1,7 @@
 # Add Token Adpp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/Add-Token.svg)](https://greenkeeper.io/)
+
 A simple Dapp for suggesting tokens to users.
 
 [Live Example](https://metamask.github.io/Add-Token)
